@@ -13,7 +13,7 @@ Outside the grader's container, MAKEFUN_OUTPUT_DIR stands in for /output:
 import os
 from pathlib import Path
 
-ROAST = "My washing machine plays a little song when it finishes, as if it deserves applause for the one job it has."
+ROAST = "My robot vacuum gets stuck on the same rug every day, beeps for rescue like I hired it to supervise me."
 
 
 def main() -> None:
